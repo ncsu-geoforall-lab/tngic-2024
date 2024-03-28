@@ -17,7 +17,7 @@ WholeTale is a scalable, open source, web-based platform for reproducible resear
 
 ## Authors
 <p float="left">
-<img src="img/Vero_Andreo.jpg" title="Vero Andreo" width=150>
+<img src="img/Vero_Andreo.png" title="Vero Andreo" width=150>
 <img src="img/Caitlin_Haedrich.jpg" title="Caitlin Haedrich" width=150>
 </p>
 
