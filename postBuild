@@ -44,4 +44,5 @@ ln -s $HOME/grass-src/bin.*/grass* $HOME/.local/bin/grass
 #  && rm nc_spm_08_grass7.zip
 wget https://grass.osgeo.org/sampledata/north_carolina/nc_sentinel_utm17n.zip
 unzip nc_sentinel_utm17n.zip
+mv nc_sentinel_utm17n ~/work/workspace
 rm nc_sentinel_utm17n.zip
