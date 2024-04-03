@@ -38,7 +38,7 @@ The workshop can be run online in [WholeTale](https://wholetale.org/). This is a
 - Brief introduction to Notebooks and GRASS in Notebooks
 - Create project and import Sentinel-2 Imagery
 
-**Part 4 (50 min): _NDVI Notebook_**
+**Part 4 (50 min): _Working with Imagery_**
 - Display RGB imagery
 - Compute NDVI
 - Compute averge NDVI for each Land Cover class
