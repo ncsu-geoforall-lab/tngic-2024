@@ -11,7 +11,7 @@ https://grass.osgeo.org/download/
 ## How to run the notebooks
 The workshop can be run online in [WholeTale](https://wholetale.org/). This is a convenient way, since no installation is needed. WholeTale is a scalable, open source, web-based platform for reproducible research.
 
-1. Go to xxx
+1. Go to [GRASS-101-TNGIC-2024](https://dashboard.wholetale.org/run/660d7d20e15e7a4ab5294264)
 2. Log in (there are different options)
 3. Run Tale (blue button at the top right)
 4. Confirm Copy and Run Tale
